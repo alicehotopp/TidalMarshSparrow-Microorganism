@@ -1,3 +1,3 @@
-# TidalMarshSparrow-Microorganism
+# TidalMarshSparrow-PlumageMicroorganisms
 Code for final analyses included in the manuscript "Plumage microorganism communities of tidal marsh sparrows"
 Files include analyses of alpha and beta diversity of 16S rRNA and ITS sequences from plumage samples from tidal marsh sparrows (genus Ammospiza). Broadly, the research aims were to describe variation in microorganism communities 1) across tidal marsh sparrow host species (Nelson's, saltmarsh, and seaside sparrows), 2) within Nelson's sparrows, and 3) between sparrow feather samples and saltmarsh sediment samples (a source of potential microorganism acquistion).
